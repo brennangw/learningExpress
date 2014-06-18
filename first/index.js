@@ -6,7 +6,7 @@ var express = require('express');
 var app = express();
 
 
-var port = 3000;
+var port = 3003;
 
 //set the view engine
 app.set('view engine' , 'jade');
